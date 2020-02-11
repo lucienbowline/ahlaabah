@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sheeweise.nakanoazusa.org/sitemap.xml
